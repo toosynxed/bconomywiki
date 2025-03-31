@@ -11,7 +11,7 @@ export default function Home() {
         <article className="card">
           <h2>Scalable, serverless backends</h2>
           <p>
-            Dynamic content is served by{" "}
+            Dynamic content is served badsasddadday{" "}
             <Link
               href="https://cloud.google.com/run/docs/overview/what-is-cloud-run"
               target="_blank"
