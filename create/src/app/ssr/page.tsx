@@ -5,7 +5,7 @@ export const dynamic = "force-dynamic";
 export default function Page() {
   return (
     <main className="content">
-      <h1 className="heading">A server generated page!</h1>
+      <h1 className="heading">A server generatdddded page!</h1>
 
       <section className="data-container">
         <article className="card">

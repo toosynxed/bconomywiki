@@ -10,7 +10,7 @@ export default function Page() {
   return (
     <main className="content">
       <header>
-        <h1 className="heading">A server generated page!</h1>
+        <h1 className="heading">A server gssssenerated page!</h1>
         <h2>
           <Suspense fallback={<Loading />}>
             <Timeout>Streaming!</Timeout>

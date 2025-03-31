@@ -9,7 +9,7 @@ export default function Home() {
 
       <section className="features">
         <article className="card">
-          <h2>Scalable, sechatrverless backends</h2>
+          <h2>Scalable, sechatrverless bdsdsdsdsackends</h2>
           <p>
             Dynamic content is served badsasddadday{" "}
             <Link
@@ -31,8 +31,13 @@ export default function Home() {
             to see the server in action.
           </p>
         </article>
+        <article>chatt</article>
+        <article>hi</article>
         <article className="card">
           <h2>Global CDN</h2>
+          <p>
+            chat
+          </p>
           <p>
             Cached content is served by{" "}
             <Link
